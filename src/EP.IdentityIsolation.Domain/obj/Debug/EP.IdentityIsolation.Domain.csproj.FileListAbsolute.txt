@@ -1,0 +1,4 @@
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Domain\bin\Debug\EP.IdentityIsolation.Domain.dll
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Domain\bin\Debug\EP.IdentityIsolation.Domain.pdb
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Domain\obj\Debug\EP.IdentityIsolation.Domain.dll
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Domain\obj\Debug\EP.IdentityIsolation.Domain.pdb

@@ -10,17 +10,20 @@ using SimpleInjector.Integration.Web;
 using SimpleInjector.Integration.Web.Mvc;
 using WebActivator;
 
+
 [assembly: PostApplicationStartMethod(typeof(SimpleInjectorInitializer), "Initialize")]
 
 namespace EP.IdentityIsolation.MVC.App_Start
 {
+   
     public static class SimpleInjectorInitializer
     {
+        /// <summary>Initialize the container and register it as MVC3 Dependency Resolver.</summary>
         public static void Initialize()
         {
             var container = new Container();
             container.Options.DefaultScopedLifestyle = new WebRequestLifestyle();
-            
+
             // Chamada dos módulos do Simple Injector
             InitializeContainer(container);
 
@@ -38,7 +41,7 @@ namespace EP.IdentityIsolation.MVC.App_Start
 
             container.RegisterMvcControllers(Assembly.GetExecutingAssembly());
             
-            container.Verify();
+            //container.Verify();
             
             DependencyResolver.SetResolver(new SimpleInjectorDependencyResolver(container));
         }

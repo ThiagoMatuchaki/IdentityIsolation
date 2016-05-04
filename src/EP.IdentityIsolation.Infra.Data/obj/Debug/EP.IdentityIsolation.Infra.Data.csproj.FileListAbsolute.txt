@@ -1,0 +1,12 @@
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EP.IdentityIsolation.Infra.Data.dll.config
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EP.IdentityIsolation.Infra.Data.dll
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EP.IdentityIsolation.Infra.Data.pdb
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EntityFramework.dll
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EP.IdentityIsolation.Domain.dll
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EP.IdentityIsolation.Domain.pdb
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EntityFramework.xml
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\obj\Debug\EP.IdentityIsolation.Infra.Data.csprojResolveAssemblyReference.cache
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\obj\Debug\EP.IdentityIsolation.Infra.Data.dll
+D:\tn334421\Documents\Visual Studio 2015\Projects\GitHub\IdentityIsolation\src\EP.IdentityIsolation.Infra.Data\obj\Debug\EP.IdentityIsolation.Infra.Data.pdb
